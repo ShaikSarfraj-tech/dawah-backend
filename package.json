@@ -2,6 +2,7 @@
   "name": "dawah-backend",
   "description": "Dawah Backend",
   "version": "0.0.0",
+  "type": "module",
   "homepage": "",
   "private": true,
   "keywords": [
