@@ -1,5 +1,5 @@
-const { app } = require('./app')
-const { logger } = require('./logger')
+const { app } = require('./app.ts')
+const { logger } = require('./logger.ts')
 
 const port = app.get('port')
 const host = app.get('host')
